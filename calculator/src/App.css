@@ -1,0 +1,9 @@
+@import url(../node_modules/bootstrap/dist/css/bootstrap.min.css);
+
+.container{
+  height: 100vh;
+  display: flex;
+  /* margin: auto; */
+  flex-direction: column;
+  justify-content: center;
+}
